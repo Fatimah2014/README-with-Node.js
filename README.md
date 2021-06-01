@@ -1,6 +1,6 @@
-# g
+# About0-Me-with-Node.js
 ## Description
->**g**
+>**This is a command line tool thatgenerates an HTML [portfolio page form user input.**
 ## Table of Content
 - Installation
 
@@ -19,21 +19,21 @@
 ## Installation
 To install necessary dependencies, run the following command:
 
->**fg**
+>**npm i **
 
 ## Usage
->**g**
+>**Just pull repo run it and enjoy**
 
 ## License
->**artistic** 
+>**Mit** 
 
 ## Contributing
->**g** 
+>**Fork the repo and open a pr for any changes** 
 
 ## Test
 To run a test run the following command:
 
->**g**
+>**npm test**
 
 ## questions
- If you have any questions about the Repo, open an issue or contact me directly at <!--g-->. you can find more of my work at <!--g-->.
+ If you have any questions about the Repo, open an issue or contact me directly at <!--Fatimah Grant-->. you can find more of my work at <!--Fatimah2014-->.
