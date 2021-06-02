@@ -1,6 +1,8 @@
 # README With Node.js  
 ### 06/01/2021
 ------
+![Screenshot (25)](https://user-images.githubusercontent.com/80806004/120413228-e2ba5280-c325-11eb-92a5-378b2bcab4ea.png)
+-------
 # Description
 
 - To make life easier after creating a application this app generates the user input and creates a professional README
