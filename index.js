@@ -4,15 +4,15 @@ const fs = require('fs')
 const generateReadme = (github, email, title, date, quest1, quest2, quest3, quest4, install, usage,credits, license, test, contributions) =>
 `# ${title}
 ### ${date}
-
-## Description
+-------
+# Description
 
 >- ${quest1}
 >- ${quest2}
 >- ${quest3}
 >- ${quest4}
-
-## Table of Content
+---------
+# Table of Content
 - Installation
 
 - Usage
@@ -28,30 +28,30 @@ const generateReadme = (github, email, title, date, quest1, quest2, quest3, ques
 - Test
 
 - Questions
-
-## Installation
+------
+# Installation
 To install necessary dependencies, run the following command
 
 >**${install}**
-
-## Usage
+-------
+# Usage
 >**${usage}**
-
-## Credits
+-------
+# Credits
 >**${credits}**
-
-## License
+------
+# License
 ${license} 
-
-## Contributing
+-----
+# Contributing
 >${contributions} 
 
-## Test
+# Test
 To run a test run the following command:
 
 >**${test}**
 
-## questions
+# questions
  If you have any questions about the Repo, open an issue or contact me directly at <${email}>. you can find more of my work at [GitHub](https://github.com/${github}).` 
 
 
