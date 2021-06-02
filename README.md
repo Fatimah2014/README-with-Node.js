@@ -49,7 +49,7 @@ To install necessary dependencies, run the following command:
 
 
 ------
-# Contributing
+# Contribution
 >Fork the repo and clone locally  
 
 # Test
