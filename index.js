@@ -8,7 +8,8 @@ const generateReadme = (github, email, title, date, quest1, quest2, quest3, ques
 ![Alt Text](https://media.giphy.com/media/FNoBbpuovVGJVtUm95/giphy.gif)
 
 -------
-https://drive.google.com/file/d/1xAoA6T_8r_69ooRU_XLyAIcnD5HlShIp/view?usp=sharing
+# How to Video
+[https://drive.google.com/file/d/1xAoA6T_8r_69ooRU_XLyAIcnD5HlShIp/view?usp=sharing]
 ------
 
 
